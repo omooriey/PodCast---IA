@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    A Sociedade dos Contadores de Histórias
+    <strong>A Sociedade dos Contadores de Histórias</strong>
 </p>
 
 <div align="center">
@@ -58,7 +58,7 @@ O podcast  <strong>Sociedade dos Contadores de Histórias</strong> foi desenvolv
 
 ## 🚀 Futuras Projeções
 
-Uma vez tendo desenvolvido o episóio piloto do projeto <strong>Sociedade dos Contadores de Histórias <strong>, meu objetivo é promover a continuidade dessa incrível e primordial proposta, evoluindo, gradativamente, seus conteúdos para algo mais concreto e apresentável ao grande público brasieiro. Entre as principais projeções aplicadas para o futuro da Sociedade dos Contadores de Histórias, se destacam:
+Uma vez tendo desenvolvido o episóio piloto do projeto <strong>Sociedade dos Contadores de Histórias </strong>, meu objetivo é promover a continuidade dessa incrível e primordial proposta, evoluindo, gradativamente, seus conteúdos para algo mais concreto e apresentável ao grande público brasieiro. Entre as principais projeções aplicadas para o futuro da Sociedade dos Contadores de Histórias, se destacam:
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
@@ -73,7 +73,7 @@ Uma vez tendo desenvolvido o episóio piloto do projeto <strong>Sociedade dos Co
       width=80 
       src = https://avatars.githubusercontent.com/u/183886170?v=4&size=64
     />
-    <p>&nbsp&nbsp&nbsp<strong>Ryan Felipe Rangel<strong><br>
+    <p>&nbsp&nbsp&nbsp<strong>Ryan Felipe Rangel</strong><br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/felipeAguiarCode">
