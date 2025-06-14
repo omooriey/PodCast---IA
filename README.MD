@@ -73,7 +73,7 @@ Uma vez tendo desenvolvido o episóio piloto do projeto (nome do podcast), meu o
       width=80 
       src = https://avatars.githubusercontent.com/u/183886170?v=4&size=64
     />
-    <p>&nbsp&nbsp&nbsp##Ryan Felipe Rangel<br>
+    <p>&nbsp&nbsp&nbsp<strong>Ryan Felipe Rangel<strong><br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/felipeAguiarCode">
