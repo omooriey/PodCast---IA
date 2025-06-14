@@ -5,6 +5,7 @@
 />
 </p>
 
+
 <p align="center">
 <a href="https://dio.me/">
     <img 
@@ -92,6 +93,12 @@ Uma vez tendo desenvolvido o episóio piloto do projeto <strong>Sociedade dos Co
     &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
+
+<style>
+img {
+border-radius 15px;
+}
+</style>
 <p>
 
 ---
