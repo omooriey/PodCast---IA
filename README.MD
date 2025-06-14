@@ -34,6 +34,12 @@
 Projeto elaborado com o objetivo de gerar um podcast literário e criativo utilizando poderosas ferramentas de IA através de prompts mais trabalhados e polidos.
 
 
+## 📖 Resumo do projeto
+
+O podcast (nome do podcast) foi desenvolvido através de ferramentas de Inteligência Artifical, com foco em promover uma maior interação da população Brasileira para com a Literatura Nacional e Internacional, em suas variadas faces - desde os respeitados clássicos até os amados contemporeâneos.
+(nome do podcast) vai além de uma simples atividade para o Bootcamp, na verdade, sua criação é uma tentativa de trazer um "respiro" para a delicada sobrevivênvia do essencial hábito de leitura entre os jovens e adultos habitantes do nosso país.
+
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
@@ -67,7 +73,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspRyan Felipe Rangel<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/felipeAguiarCode">
@@ -90,4 +96,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+por [Ryan Rangel](https://github.com/omooriey)
