@@ -36,8 +36,8 @@ Projeto elaborado com o objetivo de gerar um podcast literário e criativo utili
 
 ## 📖 Resumo do projeto
 
-O podcast  <strong> Sociedade dos Contadores de Histórias<strong> foi desenvolvido através de ferramentas de Inteligência Artifical, com foco em promover uma maior interação da população Brasileira para com a Literatura Nacional e Internacional, em suas variadas faces - desde os respeitados clássicos até os amados contemporeâneos.
-<strong>Sociedade dos Contadores de Histórias<strong> vai além de uma simples atividade para o Bootcamp, na verdade, sua criação é uma tentativa de trazer um "respiro" para a delicada sobrevivênvia do essencial hábito de leitura entre os jovens e adultos habitantes do nosso país.
+O podcast  <strong>Sociedade dos Contadores de Histórias</strong> foi desenvolvido através de ferramentas de Inteligência Artifical, com foco em promover uma maior interação da população Brasileira para com a Literatura Nacional e Internacional, em suas variadas faces - desde os respeitados clássicos até os amados contemporeâneos.
+<strong>Sociedade dos Contadores de Histórias</strong> vai além de uma simples atividade para o Bootcamp, na verdade, sua criação é uma tentativa de trazer um "respiro" para a delicada sobrevivênvia do essencial hábito de leitura entre os jovens e adultos habitantes do nosso país.
 
 
 ## 💻 Tecnologias utilizadas no projeto
