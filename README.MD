@@ -56,9 +56,9 @@ O podcast (nome do podcast) foi desenvolvido através de ferramentas de Intelig�
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 
-## 🛠️ Instruções de execução
+## 🚀 Futuras Projeções
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Uma vez tendo desenvolvido o episóio piloto do projeto (nome do podcast), meu objetivo é promover a continuidade dessa incrível e primordial proposta, evoluindo, gradativamente, seus conteúdos para algo mais concreto e apresentável ao grande público brasieiro. Entre as principais projeções aplicadas para o futuro do (nome do podcast), se destacam:
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
