@@ -81,13 +81,6 @@ Uma vez tendo desenvolvido o episóio piloto do projeto <strong>Sociedade dos Co
 </p>
 <br/><br/>
 
-<style>
-img {
-border-radius 15px;
-}
-</style>
-<p>
-
 ---
 
 💚 por [Ryan Rangel](https://github.com/omooriey)
