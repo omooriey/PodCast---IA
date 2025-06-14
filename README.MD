@@ -77,7 +77,7 @@ Uma vez tendo desenvolvido o episódio piloto do projeto <strong>Sociedade dos C
     <p>&nbsp&nbsp&nbsp<strong>Ryan Felipe Rangel</strong><br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/omooriey">
         GitHub
     </a>
     &nbsp;|&nbsp;
