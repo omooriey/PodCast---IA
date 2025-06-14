@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-   (nome do podcast)
+    A Sociedade dos Contadores de Histórias
 </p>
 
 <div align="center">
@@ -36,8 +36,8 @@ Projeto elaborado com o objetivo de gerar um podcast literário e criativo utili
 
 ## 📖 Resumo do projeto
 
-O podcast (nome do podcast) foi desenvolvido através de ferramentas de Inteligência Artifical, com foco em promover uma maior interação da população Brasileira para com a Literatura Nacional e Internacional, em suas variadas faces - desde os respeitados clássicos até os amados contemporeâneos.
-(nome do podcast) vai além de uma simples atividade para o Bootcamp, na verdade, sua criação é uma tentativa de trazer um "respiro" para a delicada sobrevivênvia do essencial hábito de leitura entre os jovens e adultos habitantes do nosso país.
+O podcast  <strong> Sociedade dos Contadores de Histórias<strong> foi desenvolvido através de ferramentas de Inteligência Artifical, com foco em promover uma maior interação da população Brasileira para com a Literatura Nacional e Internacional, em suas variadas faces - desde os respeitados clássicos até os amados contemporeâneos.
+<strong>Sociedade dos Contadores de Histórias<strong> vai além de uma simples atividade para o Bootcamp, na verdade, sua criação é uma tentativa de trazer um "respiro" para a delicada sobrevivênvia do essencial hábito de leitura entre os jovens e adultos habitantes do nosso país.
 
 
 ## 💻 Tecnologias utilizadas no projeto
@@ -58,7 +58,7 @@ O podcast (nome do podcast) foi desenvolvido através de ferramentas de Intelig�
 
 ## 🚀 Futuras Projeções
 
-Uma vez tendo desenvolvido o episóio piloto do projeto (nome do podcast), meu objetivo é promover a continuidade dessa incrível e primordial proposta, evoluindo, gradativamente, seus conteúdos para algo mais concreto e apresentável ao grande público brasieiro. Entre as principais projeções aplicadas para o futuro do (nome do podcast), se destacam:
+Uma vez tendo desenvolvido o episóio piloto do projeto <strong>Sociedade dos Contadores de Histórias <strong>, meu objetivo é promover a continuidade dessa incrível e primordial proposta, evoluindo, gradativamente, seus conteúdos para algo mais concreto e apresentável ao grande público brasieiro. Entre as principais projeções aplicadas para o futuro da Sociedade dos Contadores de Histórias, se destacam:
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
