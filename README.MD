@@ -29,7 +29,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é um projeto produzido para o Bootcamp "Prompts Inteligentes" promovido pela plataforma DIO em parceria com a Microsoft.
+ > ℹ️ **NOTA:** Este é um projeto produzido para o Bootcamp "Prompts Inteligentes" promovido pela plataforma DIO em parceria com a Microsoft.
 
 Projeto elaborado com o objetivo de gerar um podcast literário e criativo utilizando poderosas ferramentas de IA através de prompts mais trabalhados e polidos.
 
