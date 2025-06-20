@@ -23,16 +23,15 @@ Projeto elaborado com o objetivo de gerar um podcast literário e criativo utili
 
 ## 👨‍💼 Quem fez?
 
-Me chamo <strong> Ryan Felipe Rangel </strong> e sou um estudante em graduação no curso superior Análise e Desenvolvimento de Sistemas pela Faculdade Tecnologica de Guaratinguetá - FATEC Prof Joâo Mod. Amante de TI desde pequeno, me encontrei na área quando iniciei o ensino médio integrado ao técnico em Informática para Internet na Instituição ETEC Padre Carlos Leôncio da Silva.
+Me chamo Ryan Felipe Rangel e sou um estudante em graduação no curso superior Análise e Desenvolvimento de Sistemas pela Faculdade Tecnológica de Guaratinguetá - FATEC Prof João Mod. Amante de TI desde pequeno, me encontrei na área quando iniciei o ensino médio integrado ao técnico em Informática para Internet na Instituição ETEC Padre Carlos Leôncio da Silva.
 
 Apaixonado também pela literatura, e com o sonho de se tornar um escritor brasileiro profissional, me aventuro com o hobby da escrita e leitura, introduzindo essa junção de habilidades técnicas e costumes pessoais através da criação de projetos escaláveis como a Sociedade dos Contadores de Histórias.
 
 
+
 ## 📖 Resumo do projeto
 
-O podcast  <strong>Sociedade dos Contadores de Histórias</strong> foi desenvolvido através de ferramentas de Inteligência Artifical, com foco em promover uma maior interação da população Brasileira para com a Literatura Nacional e Internacional, em suas variadas faces - desde os respeitados clássicos até os amados contemporeâneos.
-<strong>Sociedade dos Contadores de Histórias</strong> vai além de uma simples atividade para o Bootcamp, na verdade, sua criação é uma tentativa de trazer um "respiro" para a delicada sobrevivênvia do essencial hábito de leitura entre os jovens e adultos habitantes do nosso país.
-
+O PodCast Sociedade dos Contadores de Histórias foi desenvolvido através de ferramentas de Inteligência Artificial, com foco em promover uma maior interação da população Brasileira para com a Literatura Nacional e Internacional, em suas variadas faces - desde os respeitados clássicos até os amados contemporâneos. Sociedade dos Contadores de Histórias vai além de uma simples atividade para o BootCamp, na verdade, sua criação é uma tentativa de trazer um "respiro" para a delicada sobrevivência do essencial hábito de leitura entre os jovens e adultos habitantes do nosso país.
 
 ## 💻 Tecnologias utilizadas no projeto
 
