@@ -31,7 +31,7 @@ Apaixonado também pela literatura, e com o sonho de se tornar um escritor brasi
 
 ## 📖 Resumo do projeto
 
-O PodCast <strong>Sociedade dos Contadores de Histórias</strong> foi desenvolvido através de ferramentas de Inteligência Artificial, com foco em promover uma maior interação da população Brasileira para com a Literatura Nacional e Internacional, em suas variadas faces - desde os respeitados clássicos até os amados contemporâneos. Sociedade dos Contadores de Histórias vai além de uma simples atividade para o BootCamp, na verdade, sua criação é uma tentativa de trazer um "respiro" para a delicada sobrevivência do essencial hábito de leitura entre os jovens e adultos habitantes do nosso país.
+O PodCast <strong>Sociedade dos Contadores de Histórias</strong> foi desenvolvido através de ferramentas de Inteligência Artificial, com foco em promover uma maior interação da população Brasileira para com a Literatura Nacional e Internacional, em suas variadas faces - desde os respeitados clássicos até os amados contemporâneos. <strong>Sociedade dos Contadores de Histórias</strong> vai além de uma simples atividade para o BootCamp, na verdade, sua criação é uma tentativa de trazer um "respiro" para a delicada sobrevivência do essencial hábito de leitura entre os jovens e adultos habitantes do nosso país.
 
 ## 💻 Tecnologias utilizadas no projeto
 
